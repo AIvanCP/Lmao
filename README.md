@@ -9,9 +9,9 @@ pip install mymathlib
 ```
 ## Usage
 ```bash
-from mymathlib.geometry import circle_area
+from mymathlib.awikwok import aowkwk
 
-radius = 5
-area = circle_area(radius)
-print(f"The area of the circle with radius {radius} is: {area}")
+obj = aowkwk()
+data = obj.circle_area
+print(data)
 ```
